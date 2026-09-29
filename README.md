@@ -110,7 +110,3 @@ Ao finalizar o sistema, você receberá um relatório consolidado contendo:
 - Dashboard web para visualização de métricas
 - API REST para integração com sistemas ERP
 - Relatórios em PDF/Excel
-
-## 📝 Licença
-
-Este projeto é fornecido como protótipo educacional para fins de automação industrial.
